@@ -1,0 +1,12 @@
+{
+  "id": 1001,
+  "name": "張小明",
+  "email": "xiaoming@example.com",
+  "isVIP": true,
+  "roles": ["admin", "developer"],
+  "profile": {
+    "age": 25,
+    "city": "台北市",
+    "avatar": "https://example.com/avatar.jpg"
+  }
+}
